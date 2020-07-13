@@ -1,0 +1,11 @@
+.container-main-signup {
+  height: 100vh;
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonProgress {
+  color: white !important;
+}

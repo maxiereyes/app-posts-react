@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "YellowtailRegular";
+  src: url("/assets/fonts/Yellowtail-Regular.ttf");
+}
+
+html,
+body {
+  font-size: 16px;
+  margin: 0 !important;
+}
